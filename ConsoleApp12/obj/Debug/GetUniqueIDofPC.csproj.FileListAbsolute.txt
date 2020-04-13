@@ -1,0 +1,6 @@
+C:\Users\think\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\GetUniqueIDofPC.exe.config
+C:\Users\think\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\GetUniqueIDofPC.exe
+C:\Users\think\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\GetUniqueIDofPC.pdb
+C:\Users\think\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\GetUniqueIDofPC.csproj.CoreCompileInputs.cache
+C:\Users\think\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\GetUniqueIDofPC.exe
+C:\Users\think\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\GetUniqueIDofPC.pdb
