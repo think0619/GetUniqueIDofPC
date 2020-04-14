@@ -19,7 +19,7 @@ get unique id, CPU ID, Hard disk ID, Motherboard ID, UUID
         }
 
         /// <summary>
-        /// 获取CPU ID
+        /// Get CPU ID
         /// </summary>
         /// <returns></returns>
         public static string getProcessID()
